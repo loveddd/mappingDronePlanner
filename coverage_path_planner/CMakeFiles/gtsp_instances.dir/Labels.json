@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gtsp_instances"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gtsp_instances.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gtsp_instances-complete.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-build.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-configure.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-download.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-install.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-mkdir.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-patch.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gtsp_instances-prefix/src/gtsp_instances-stamp/gtsp_instances-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gtsp_instances"
+		],
+		"name" : "gtsp_instances"
+	}
+}

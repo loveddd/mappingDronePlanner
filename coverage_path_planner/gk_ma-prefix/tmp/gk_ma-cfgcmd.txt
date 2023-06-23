@@ -1,0 +1,1 @@
+cmd='COMMAND;cp;/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/src/polygon_coverage_solvers/patches/MakefileCpp;./MakefileCpp;COMMAND;cp;/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/src/polygon_coverage_solvers/patches/MakefileCs;./MakefileCs'

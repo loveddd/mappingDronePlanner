@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma-complete.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-build.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-configure.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-download.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-install.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-mkdir.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-patch.rule"
+		},
+		{
+			"file" : "/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gk_ma"
+		],
+		"name" : "gk_ma"
+	}
+}

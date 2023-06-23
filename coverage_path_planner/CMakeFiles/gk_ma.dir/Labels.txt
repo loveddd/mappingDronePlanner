@@ -1,0 +1,13 @@
+# Target labels
+ gk_ma
+# Source files and their labels
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/CMakeFiles/gk_ma-complete.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-build.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-configure.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-download.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-install.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-mkdir.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-patch.rule
+/home/cwz/Documents/gis_planner/scripts/coverage_path_planner/gk_ma-prefix/src/gk_ma-stamp/gk_ma-update.rule
